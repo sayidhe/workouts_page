@@ -22,8 +22,8 @@ const data: ISiteMetadataResult = {
       url: 'https://sayidhe.com',
     },
     {
-      name: 'About',
-      url: 'https://github.com/sayidhe/workouts_page/blob/master/README-CN.md',
+      name: 'Github',
+      url: 'https://github.sayidhe.com/',
     },
   ],
 };
