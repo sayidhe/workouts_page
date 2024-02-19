@@ -11,10 +11,10 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
+  siteTitle: 'Hiking Map',
   siteUrl: 'https://sport.sayidhe.com',
   logo: 'https://avatars.githubusercontent.com/u/8212913?v=4',
-  description: 'Personal workouts',
+  description: 'Sayid & Nuo hikings',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
