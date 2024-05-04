@@ -1,4 +1,7 @@
 // const
+// For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
+// Instead, manually add a new token and apply URL restrictions.
+// (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
 const MAPBOX_TOKEN =
     'pk.eyJ1IjoiaGVycTEyMzE1IiwiYSI6ImNscmoyNTBvbzBnYTEyaXFqamVuMjIycXIifQ.Z7nKVLZZaGq0OWwiKloj3w';
 const MUNICIPALITY_CITIES_ARR = [
@@ -30,7 +33,7 @@ const GOOGLE_ANALYTICS_TRACKING_ID = '';
 // styling: set to `true` if you want dash-line route
 const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
-const LINE_OPACITY = 0.4;
+const LINE_OPACITY = 0.6;
 // styling: map height
 const MAP_HEIGHT = 600;
 //set to `false` if you want to hide the road label characters
