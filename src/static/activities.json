@@ -398,5 +398,53 @@
 "elevation_gain": 407.9,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12839625063,
+"name": "Paris",
+"distance": 8271.3,
+"moving_time": "1:55:32",
+"type": "Hike",
+"start_date": "2024-11-05 08:09:57+00:00",
+"start_date_local": "2024-11-05 09:09:57",
+"location_country": "Restaurant Hexagone, Avenue Kl\u00e9ber, Chaillot, Paris 16e Arrondissement, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75116, \u6cd5\u56fd",
+"summary_polyline": "k{fiHq_~LbBpAzAz@RTPb@@b@CjAMXUV_Av@xDoH?@TGLALB^TJ@HARMt@q@R]DO@QCKCCE?GB@BBCAEQMOUCCBIKAMQm@oAW{@Eg@?c@F]Rm@@OEQWc@MQGBAw@DUJSr@y@JCn@JvCr@|@PZAj@e@PG^ENDJRHHH@F?TWj@eAPQHABB@XRmAJ_@jAyBJKHCNFTVtAjCPh@`@dBJXvBfDnAvA`Az@n@^`A^dCr@rBbANBXIF@LJDPAPOf@EVcC`CqBtBaB`BG@EJI`@ILcAx@SJk@Ne@`@INJVGT}AnAu@~@Si@MBe@PU?u@]cAs@_@Qc@KM@GBKPIR[|AIVq@dA_AfBMVSt@a@~@OPiAhAoAxAo@lA{@lAWb@mAhCgArBYz@Of@MfAa@bHAd@F\\NRh@b@rA|@j@Zj@f@tAr@HHADbAVl@Tx@b@FNHHp@\\h@L`@Bb@RPBkAOkA_@I?IBKLINMd@s@xEEj@@VMRq@f@uA~@{@d@i@P}@R}@He@AUKII?@E@a@Ba@COGIKk@qBwByGC]@o@Mq@_A{C]{@Q]YAUkBOs@m@mBe@sAc@{As@_CaBwEUeAKsAYYKQu@uBSa@UWq@e@SWMWIg@MaAKc@wAuECQBg@\\mAF[A_@Om@?E~@_CGFq@hAKLKD[Ai@MMMMQw@qBeAaDaAmDmBgGaB}Es@aCyB}GIc@DY`AsBRWF]Fk@BwAHgBEm@Y}BBKRSBKc@wB?NBNHJFBlBu@INUDED?LECUkAFDELKMBHGADEAGAHDPC`@",
+"average_heartrate": 89.4,
+"average_speed": 1.193,
+"elevation_gain": 56.5,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12839656979,
+"name": "Paris, Sainte-Chapelle / Paris, Panth\u00e9on",
+"distance": 5162.4,
+"moving_time": "1:25:16",
+"type": "Hike",
+"start_date": "2024-11-05 13:52:49+00:00",
+"start_date_local": "2024-11-05 14:52:49",
+"location_country": "Cour de la Sainte-Chapelle, Quartier Saint-Germain-l'Auxerrois, Paris 1er Arrondissement, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75001, \u6cd5\u56fd",
+"summary_polyline": "e`eiHw`iMEE@NELCIEBEJKB@EFGGRNU@KGDAFDDFECNA@EACD?HCB?B?IFAADCB@GEH@@DAAGKFLCE@CCFFCAACD@@AESPESv@FHH_@HM@?@FLJBa@G_@C??BDACALNFV@OEMAOBHa@]m@Q@OIIJ@DCH[IIQKEKG?B?QGI?FR@QKCCCHOCGGGHOANCF?HC@M?MAMQQGIGGKDM@BLu@HcAp@kDJa@Fa@HQ~@gEVsBNu@HUHIJALB~CpBv@Z^TBD@E@?@B?EC@?DBE?FIHJm@UbAGr@?PQ`A?TJ\\DBA??D@G@B?E@B?CB??GYo@AYFQDAHk@AUNc@Hi@NYBUFEF[Ci@@a@HSLUNQHCL{@AEEL?GDWB@@CBQEONWBa@F_@Tw@DIRCRINBTJNLVLPDPPLDNBLGZPHHb@Tl@`@?FV^BLADBBH@EKSUAJBCHFJ@ADGK@MFCPBz@^jBfA~@`@DBDLNNr@`@j@TNBLAJIJODBV`AFJXTFJBLEf@_@bCAPBFHDP@VEp@Q^Gl@CVBZNl@p@t@h@RVNX^hADb@A`@S`AIp@BXNPDLEbA?RGd@Dj@FNZVVf@PRJ@JCLINQ]VODO@MEMMCQA_@s@Oe@Ha@tBYjCKPE@OA_C}@iB_AaBq@oAo@oA_@_DsAOu@EKMIIAMPIDO?UEyDgBwAg@OMIOCQBYPo@BCDH`@YPVN\\\\hABRCPKRER_@jCQdAGl@@ZDNLPfB~Ad@d@eAo@eAsAIQIu@Ia@Q]e@q@@??C",
+"average_heartrate": 77.4,
+"average_speed": 1.009,
+"elevation_gain": 35.2,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12839612578,
+"name": "Paris / Paris, Panth\u00e9on",
+"distance": 18131.9,
+"moving_time": "5:07:28",
+"type": "Hike",
+"start_date": "2024-11-06 07:25:12+00:00",
+"start_date_local": "2024-11-06 08:25:12",
+"location_country": "Quartier des Champs-\u00c9lys\u00e9es, Paris 8e Arrondissement, \u5df4\u9ece, \u6cd5\u5170\u897f\u5c9b\u5927\u533a / \u6cd5\u862d\u897f\u5cf6\u5927\u5340, \u6cd5\u570b\u672c\u571f/\u6cd5\u56fd\u672c\u571f, 75008, \u6cd5\u56fd",
+"summary_polyline": "omhiHeo_Ms@n@kBqBwCd@sAvB_@~CoAj@a@CF[@BTHGLUMf@_AB}DfCx@rq@glDt@n@n@yEz@kAl@`@P|H`B}CO}@T_AdBmArAgGr@mGO[`BmE|AyAOw@`@}EhCmKpAf@r@jA@~BaBhDxApACf@cMrj@@m@y@bF_AC|@GhBcJaC|JV}@Ws@r@wATo@Ev@a@?\\GMq@\\Bc@b@ZIKcAFbBg@g@`@j@}@MOm@VrCV]i@nB{@a@|@r@Iv@`@F}@`FhHnFrBiBvAQtFoFt@{BjT_SG[pCyEv@mCu@aA~@dAhA{BpFkZS{@ZcBWIZFqHqCmBtHo@`A_Lrb@eEcBgB`HyA[XVn@}@WaAG?pAsAc@{@`@Tg@bACk@vAmA_ARQz@IjDcA_Cn@Oa@Bt@t@_@SR`AXBUl@f@eGa@j@iAm@j@nBMe@oCzBLYW`@bE_Bo@H\\K?mAz@WAFk@Qc@v@PgAQf@r@g@KYT^Mh@{@^p@s@r@Ve@OBo@Tn@]FNq@KS[PhAq@m@]|@Oq@Hd@Y]Ot@@QNWCt@m@][COE`BTMKWSvAVO@`@_@`@NY@f@c@QZHi@\\?jA@m@cAFJt@Ku@Cm@Vb@i@bB?cBrAr@Tg@aBNLu@BhA`BMN_B[WNVdA_B_A_@h@^Ni@c@LVSc@c@XX[d@g@aCg@p@L~@dAnAWeCPBLtAg@lBc@a@d@DD`AUgB`AHoA`Bj@MUq@QPCnANh@Bm@cA_@^x@t@k@a@^Hc@ROs@tDj@p@e@r@TNu@CtE`Ew@zCjBz@^`ARWzt@o|CMSvBHpBv@Cf@xJ`ClAj@TbBz@{@xBdBYQu@vDiCgAEoE_EwAqEmBuCgBWkEQ\\Z]c@Pc@tB{@FabBmXdCiU^MJ{DP_A~@v@DBgAq@bAyIaApI`Av@_A][n@PP}@Yoi@v_Jh@oD^]{Hz[c@pMI}AcAyALdA^`@Ji@Qf@]a@`AsAe@v@PKUm@j@h@QT_A_@~@ENxA[v@VkC_@rA[q@_A|FtDsNIk@`A`@vAkB|@pCGsBh@d@|@m@_AuB`@j@Cw@An@W_@PJCe@F`@",
+"average_heartrate": 81.1,
+"average_speed": 0.983,
+"elevation_gain": 128.0,
+"source": "strava",
+"streak": 2
 }
 ]
