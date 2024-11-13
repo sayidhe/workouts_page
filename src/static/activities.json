@@ -510,5 +510,37 @@
 "elevation_gain": 1575.0,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 12881320628,
+"name": "Beatenberg, Switzerland Hiking",
+"distance": 25478.9,
+"moving_time": "9:55:42",
+"type": "Hike",
+"start_date": "2024-11-11 08:11:32+00:00",
+"start_date_local": "2024-11-11 09:11:32",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 96.0,
+"average_speed": 0.713,
+"elevation_gain": 0.0,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 12885754799,
+"name": "Frankfurt",
+"distance": 5796.9,
+"moving_time": "1:24:33",
+"type": "Hike",
+"start_date": "2024-11-12 16:14:52+00:00",
+"start_date_local": "2024-11-12 17:14:52",
+"location_country": "Philipp-Holzmann-Weg, Ostend, Bornheim/Ostend, \u7f8e\u8335\u6cb3\u7554\u6cd5\u862d\u514b\u798f, \u9ed1\u68ee\u5dde, 60314, \u5fb7\u56fd",
+"summary_polyline": "q}ypHsjct@^{@HMLGNBRV`@JTHbAx@|@nAr@n@N`@Bn@SpLE`@GXIFMBNLFLHt@FjEGzBwBp[Mz@s@dCe@jJS~EgAdL_@bGCrBJ|CDpIENSFuBV{@@[Dk@TMJEHG`@@h@ZrCBz@?tACt@Ej@K`@QTULsC`AaAj@c@JCDK?_@JeA^a@Rc@\\OFICKKi@uAGe@HSpAlD?HJKHY^g@FO@a@QiA@OFEJ@FHXj@^h@HFJ?lBg@ACHIZUzAm@nAY^Cf@NP@fAM~BULBHF\\d@RBh@IrA[|DeAPKFQCo@a@mDOyAIuAC{A@yBDcBLuARgBDi@?{@Gk@GIQEeAD{HFKAIEEKCQ?uAB_Cd@yNH}AFUBH@XGrBBx@DLLPNJNBHEHUJgAf@_KH{CHoALs@l@uBHu@rBiZHeCAw@IeC?mAIGWALIHUH]Bg@BgA?eCL{D?aAE_@M]}@m@m@_AaAaA_AWIKK[MMcAU",
+"average_heartrate": 85.4,
+"average_speed": 1.143,
+"elevation_gain": 27.9,
+"source": "strava",
+"streak": 8
 }
 ]
