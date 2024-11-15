@@ -574,5 +574,21 @@
 "elevation_gain": 21.5,
 "source": "strava",
 "streak": 9
+},
+{
+"run_id": 12900357026,
+"name": "Frankfurt citywalk \u6cd5\u5170\u514b\u798f\u905b\u5f2f\u53bb\u5403 Pho Ha Noi",
+"distance": 9328.8,
+"moving_time": "1:59:45",
+"type": "Hike",
+"start_date": "2024-11-14 14:17:11+00:00",
+"start_date_local": "2024-11-14 15:17:11",
+"location_country": "Palais Thurn und Taxis, 1, Thurn-und-Taxis-Platz, Innenstadt, Innenstadt 1, \u7f8e\u8335\u6cb3\u7554\u6cd5\u862d\u514b\u798f, \u9ed1\u68ee\u5dde, 60313, \u5fb7\u56fd",
+"summary_polyline": "ib{pHij~s@Hb@P\\D^L^`@V`@Jx@DRIDHB`@O`BC`BFhBAbAC`@Oj@Ed@B|@KpBU|AEh@Ol@MJMS@KCHIFv@L{BwAIOFMnAhALT@NEfBKdABpBKp@Gz@Yj@UfA[dCAj@UZHTHBn@YPAn@TTCRXn@X^l@PrAXn@IIAWj@oEB_@Ic@FIPm@\\w@RaAHy@h@s@Nq@^s@ZeAPw@T_@Z_AD]A_@_@iCLEPM\\ZPn@XDT\\XhAZSd@LVMdAUL@XZPFTf@X`@J`@D^Pj@RTj@nAH|@TpAPZLl@Xz@HK@QYmABWPIr@Cz@_@@MPKf@@ZKJRCTM^BRRL^AHHp@tAl@~Av@`BHFVQ`@GPMX]Ji@PWPIb@[f@ONOHMBc@HWH?Gc@Ti@?Q[u@s@qA]_A@SLa@HCFLCMsAuDm@sB_@cBUo@WaA_@kAO[{@{CCSo@qBcAgEkAsGKcAYk@Ec@Bw@[sEMeAIkCGs@?aBKcBCaB@eB@fBEJWVJlCD^k@Ew@Fg@R{@@]X_@@UEi@V_@?e@LKJIVEBu@Do@MUZ[BYTm@TUAQSIShAxKQl@ORCXSn@Mz@?f@s@x@U@s@\\w@VQNAHHHPdAXT@^FGEODRA^MpAMn@AXfAhBeBEQXPXJJNC\\WLCTkA?_ASq@C]GWOQYSGMGgAa@qCUeAWs@QoAo@cCEu@M{@B}@Qc@Gm@GW@k@EO@WBIAyAGGCKEAk@R_@KmBWk@?cB_@QUISKyA?}@Uc@HLEGKc@]e@MYAo@L_BGOKs@?c@YW{@uAs@a@i@m@IoCUsCIkCAeAHi@GCIQU}@m@gAg@qAQFICKWQUM]a@o@a@iA_@qAQcAs@_Ca@iAW]Wi@O{@aA}BQk@Ui@WgA[o@sAmDSw@DSMWC_@_@e@C[OO@CE?PGYFQd@EcAb@`@Zf@^b@Pd@PpAf@jAp@zBJj@^d@h@hANb@Xd@P|@K^DRIOv@pAb@z@`@TRZLf@NZLtAv@~CJNXVb@|@l@~BdA`CFZJjCDpDF`B?VWz@~ClCPFzAvBIdAJLBTCV[dACb@Dj@TfAJDJEAXJp@d@jADVFLVPDn@RxACzCEr@BfAZnCCZ@^GfAD~@YhB[hAA^HNTFNLt@PTNHXZVb@LBEEY",
+"average_heartrate": 89.4,
+"average_speed": 1.298,
+"elevation_gain": 139.4,
+"source": "strava",
+"streak": 10
 }
 ]
