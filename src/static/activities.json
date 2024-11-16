@@ -590,5 +590,21 @@
 "elevation_gain": 139.4,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 12907138471,
+"name": "\u6cd5\u5170\u514b\u798f citywalk \u690d\u7269\u56ed",
+"distance": 13935.8,
+"moving_time": "3:04:15",
+"type": "Hike",
+"start_date": "2024-11-15 10:20:20+00:00",
+"start_date_local": "2024-11-15 11:20:20",
+"location_country": "Galeria, 116-126, Zeil, Innenstadt, Innenstadt 1, \u7f8e\u8335\u6cb3\u7554\u6cd5\u862d\u514b\u798f, \u9ed1\u68ee\u5dde, 60313, \u5fb7\u56fd",
+"summary_polyline": "}`{pHuf~s@\\Z?^eC[}@F}@Y}ABiBy@Y]sBrAOr@Tz@DfA\\^N|@Ep@[~@ZdDr@fDVXR`Ab@z@b@rCAl@XhAAnAV|AAv@bDnARRZvAnCjBJXXCx@d@^^DXEh@q@nBO~B@fCZ|@LfE]fDe@zB[lDIVFdAK`HDfBQpAAdGaCpHQpJBxCOrBJlAQ~CDv@IxCBrA_@jC{BKgAu@o@GiFmBFqFT}@HgCPW_@e@My@wHw@_AVY|IBn@GZSRgHz@oFlAqCbAeAr@u@z@uAx@cAGeAy@qA{BM_@HKSEQa@iCaKDWxB{B?qBHm@rMcEd@Cf@p@MTXRI@JIMNRMK`@VHF|@RDMBIQHN~C_Af@FZvAWbAy@GFBGB?TFDLKBc@TCRXJQQs@C{AfBo@p@QBmARu@Ii@SYeFpCJz@Tr@n@LNr@]bBd@nAo@^LjAz@^NZFz@It@`@hAKbA}@b@iAKKO@cAKHu@YWq@g@VUd@_@FLXQB\\`@EVWHOUA`@_@OaA`@{@@UTLf@qA_CyBiAaAM\\d@Ij@Di@wA[W_Aw@_BUYX{@f@s@ZaBTa@Yu@Nc@h@YJX?SVStBu@TBRXPMd@TZQVgAtA_@PRFtBa@PMKHf@CTOAAYW[y@RIn@YKJ@?NWFi@\\DXFC@UMoALINXl@JCKHJEJKa@zAs@EJMM?STFVaATFAd@QFXZVIGPr@_@j@JMCO}@UFEQR]VABLS^EQK?F]N[C]i@}@aAk@Q]_@wDKgCg@mE}@mBk@eEo@_@c@_CaIbBoBn@aBLoAj@_ApAcA^a@e@[kCd@xBMd@eDX_GDGXHjAv@Th@~@YCu@_AaDm@[n@c@rCJ}Ab@qBh@?fDx@h@x@O|AJvA^hAbAnB\\rBZtA^|@xAh@xAoApAyC`EqElCeA`As@vAqB~@sBt@wClAmBMiCh@u@nF_BbBsCb@gDjBsEN}@Ae@Vk@v@wFfAmCNcAHyBRmAZgA^i@UaABaBVS^Bi@EC[NsHFWFDHy@VTK]MqB`@O\\eAfAoA`@w@h@kBx@aB`A{@\\I~AeBvB_Bb@JCPLDREJ]jBQn@VpAOrB\\{@BMElAM~AVhBl@GV`@Uj@HHYMEBP?QCNXRb@??QALc@BoAa@_@bEIuAD}@y@Q_@qBXI",
+"average_heartrate": 89.4,
+"average_speed": 1.261,
+"elevation_gain": 300.6,
+"source": "strava",
+"streak": 11
 }
 ]
