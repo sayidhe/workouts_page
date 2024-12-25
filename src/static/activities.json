@@ -670,5 +670,21 @@
 "elevation_gain": 20.0,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 13179647430,
+"name": "\u676d\u5dde\u4e5d\u6eaa\u70df\u6811",
+"distance": 12496.4,
+"moving_time": "2:53:13",
+"type": "Hike",
+"start_date": "2024-12-24 06:54:36+00:00",
+"start_date_local": "2024-12-24 14:54:36",
+"location_country": "Jiuxi Road, \u897f\u6e56\u8857\u9053, \u897f\u6e56\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310008, \u4e2d\u56fd",
+"summary_polyline": "evhwDs_b|UPOkAV[Xg@z@u@z@gAp@sAZ_@RcBOiAJgAXk@RmC`BoB@mD}@mABeDdAiBo@oAU_DCe@PYXNhCEVORwBt@UFw@GOFSh@KhAMTkApAu@Xu@x@qA~@[ZYr@kAtAg@VwBGQFgCrCi@HWIOYSeCW_@]E[To@bAWjAy@zAQD[bAu@v@OBiAm@i@QwA?y@LuAKcADsBYoA^uBZi@Ky@kAi@[aBJmBSs@@iBPVBMK]HT?uAl@_AN}AbA_AXeAt@s@ZK\\NZF@Vb@RAPLZr@JvBWlBQX?b@Rb@b@`B@h@h@hEIbARv@LhAJB?PTp@XXV|@Xl@@Rp@x@d@b@h@Z^FtB`ANZ\\DEHJ@CBx@GPl@f@LCJ`@BFVn@JDJCN]FDj@Eh@OFa@^m@DSTCTYFwBB{@\\u@L{@t@mA\\WZs@LUCMXc@RIPDSt@k@TE_@IsBfAk@Fu@K}@]wA@w@g@IDq@]UACGJc@QI@SU_@D@HHYG}@g@g@AsAWo@_@Wc@iAs@m@Uy@aAWy@GYBeAoAuAGu@e@g@Uw@Ua@?g@kAeAPMOu@OQOk@wB}Ca@{C?{@Ui@HyDE}Ae@mBGy@j@a@l@gAd@q@\\Wz@uAp@It@YGU\\Q?STIEQXOPWCGPQSSLW\\Qf@ECIROb@m@LUCBDUx@c@Tm@pAMU{@FIW]LGKSFKSUHa@II@ICDJ_@Sk@Ge@KENBI?Ae@DMEGEDJLPbBPf@fBfAfArAx@pATdAIgAHq@I}@Yu@uAqBUkAKyALsCzAoCLmAAa@}@iBOm@Ce@P_@`Aw@XqBPQbFmAl@Av@LC@f@Y@Qy@eCQ_AKwAYaBIiCBB]cBLQn@\\PVvAjFn@vAZR^MRm@d@?nAv@Xz@El@f@^rAy@X@^RLCHQAMe@WDa@^_@p@EzC^rA\\P@RULAn@Dr@P`@VdAVhB?tAp@fAXr@@t@QjDVn@Iz@d@x@RRXHd@Af@NnA|@p@\\v@Hf@?z@`Ap@n@Br@RbAhAn@ZP\\z@~@pAPn@ThA|@RpAFDbBYhAH|@R~DLnA@`@G~@aAt@Wj@CpDJpBt@v@GrBy@nAMlDfAfA@v@UrDgBf@MzBWv@FfAGrBq@j@k@nA{B~Aa@~AItAk@ZQ",
+"average_heartrate": 106.2,
+"average_speed": 1.202,
+"elevation_gain": 467.0,
+"source": "strava",
+"streak": 1
 }
 ]
