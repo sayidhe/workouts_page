@@ -705,7 +705,7 @@
 },
 {
 "run_id": 13197868142,
-"name": "Morning Run",
+"name": "\u5f90\u6c47\u516c\u56ed\u8dd1\u6b65",
 "distance": 5071.6,
 "moving_time": "0:28:02",
 "type": "Run",
@@ -721,7 +721,7 @@
 },
 {
 "run_id": 13235582097,
-"name": "Morning Run",
+"name": "\u4e0a\u6d77\u68a7\u6850\u533a\u8dd1\u6b65",
 "distance": 12154.0,
 "moving_time": "1:24:04",
 "type": "Run",
@@ -737,7 +737,7 @@
 },
 {
 "run_id": 13251504556,
-"name": "Morning Run",
+"name": "\u4e0a\u6d77\u68a7\u6850\u533a\u8dd1\u6b65",
 "distance": 7830.4,
 "moving_time": "0:58:42",
 "type": "Run",
@@ -769,7 +769,7 @@
 },
 {
 "run_id": 13613753742,
-"name": "Morning Run",
+"name": "\u798f\u5b89\u5c71\u91cc\u8dd1\u6b65",
 "distance": 5219.0,
 "moving_time": "0:34:32",
 "type": "Run",
@@ -801,7 +801,7 @@
 },
 {
 "run_id": 13613770352,
-"name": "Hiking",
+"name": "\u6625\u8282\u67f3\u5dde\u4e09\u95e8\u6c5f\u540e\u5c71",
 "distance": 5022.8,
 "moving_time": "1:01:20",
 "type": "Hike",
@@ -817,7 +817,7 @@
 },
 {
 "run_id": 13613771031,
-"name": "Liuzhou, Liuchai Cultural Industrial Park / Liuzhou",
+"name": "\u67f3\u5dde\u4e07\u8c61\u57ce\u8dd1\u6b65",
 "distance": 4585.4,
 "moving_time": "0:30:42",
 "type": "Run",
@@ -833,7 +833,7 @@
 },
 {
 "run_id": 13613771651,
-"name": "Outdoor Walking",
+"name": "\u6625\u8282\u67f3\u5dde\u4e09\u95e8\u6c5f\u516c\u56ed\u5f92\u6b65",
 "distance": 7042.6,
 "moving_time": "1:49:10",
 "type": "Hike",
@@ -849,7 +849,7 @@
 },
 {
 "run_id": 13613773795,
-"name": "Hezhou",
+"name": "\u8d3a\u5dde\u8857\u533a\u6563\u6b65",
 "distance": 2596.0,
 "moving_time": "0:36:03",
 "type": "Hike",
@@ -865,7 +865,7 @@
 },
 {
 "run_id": 13613774325,
-"name": "Liuzhou, Liuchai Cultural Industrial Park / Liuzhou, Golden Century",
+"name": "\u67f3\u5dde\u9a6c\u9e7f\u5c71\u516c\u56ed",
 "distance": 14287.2,
 "moving_time": "1:25:54",
 "type": "Run",
@@ -881,7 +881,7 @@
 },
 {
 "run_id": 13613774965,
-"name": "Outdoor Walking",
+"name": "\u6625\u8282\u67f3\u5dde\u5927\u9f99\u6f6d\u5f92\u6b65",
 "distance": 5019.6,
 "moving_time": "1:19:50",
 "type": "Hike",
@@ -897,7 +897,7 @@
 },
 {
 "run_id": 13613775750,
-"name": "Shanghai / Shanghai, Bailian Xuhui Shopping Center",
+"name": "\u4e0a\u6d77\u68a7\u6850\u533a\u8dd1\u6b65",
 "distance": 8180.5,
 "moving_time": "0:52:49",
 "type": "Run",
