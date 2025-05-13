@@ -27,10 +27,6 @@ const data: ISiteMetadataResult = {
       url: `${getBasePath()}/summary`,
     },
     {
-      name: 'Summary',
-      url: `${getBasePath()}/summary`,
-    },
-    {
       name: 'Blog',
       url: 'https://sayidhe.com',
     },
