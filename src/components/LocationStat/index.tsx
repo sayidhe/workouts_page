@@ -31,7 +31,7 @@ const LocationStat = ({
         .
       </p>
     </section>
-    <hr color="red" />
+    <hr />
     <LocationSummary />
     <CitiesStat onClick={changeCity} />
     <PeriodStat onClick={changeType} />
