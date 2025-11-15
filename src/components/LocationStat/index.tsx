@@ -18,7 +18,7 @@ const LocationStat = ({
   changeYear,
   changeCity,
   changeType,
-  onClickTypeInYear
+  onClickTypeInYear,
 }: ILocationStatProps) => (
   <div className="w-full pb-16 lg:w-full lg:pr-16">
     <section className="pb-0">
@@ -31,11 +31,15 @@ const LocationStat = ({
         .
       </p>
     </section>
-    <hr color="red" />
+    <hr />
     <LocationSummary />
     <CitiesStat onClick={changeCity} />
     <PeriodStat onClick={changeType} />
-    <YearStat year="Total" onClick={changeYear} onClickTypeInYear={onClickTypeInYear}/>
+    <YearStat
+      year="Total"
+      onClick={changeYear}
+      onClickTypeInYear={onClickTypeInYear}
+    />
   </div>
 );
 

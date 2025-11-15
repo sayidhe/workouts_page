@@ -10,6 +10,11 @@ interface ISiteMetadataResult {
   }[];
 }
 
+const getBasePath = () => {
+  const baseUrl = import.meta.env.BASE_URL;
+  return baseUrl === '/' ? '' : baseUrl;
+};
+
 const data: ISiteMetadataResult = {
   siteTitle: 'Hiking Map',
   siteUrl: 'https://sport.sayidhe.com',
@@ -17,6 +22,10 @@ const data: ISiteMetadataResult = {
   description: 'Sayid & Nuo hikings',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
+    {
+      name: 'Summary',
+      url: `${getBasePath()}/summary`,
+    },
     {
       name: 'Blog',
       url: 'https://sayidhe.com',
