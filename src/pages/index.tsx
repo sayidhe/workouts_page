@@ -26,7 +26,7 @@ import {
   titleForShow,
   RunIds,
 } from '@/utils/utils';
-import { useTheme } from '@/hooks/useTheme';
+import { useTheme, useThemeChangeCounter } from '@/hooks/useTheme';
 
 const Index = () => {
   const { siteTitle, siteUrl } = useSiteMetadata();

@@ -1,6 +1,6 @@
 // Constants
 const MAPBOX_TOKEN =
-    'pk.eyJ1IjoiaGVycTEyMzE1IiwiYSI6ImNscmoyNTBvbzBnYTEyaXFqamVuMjIycXIifQ.Z7nKVLZZaGq0OWwiKloj3w';
+  'pk.eyJ1IjoiaGVycTEyMzE1IiwiYSI6ImNscmoyNTBvbzBnYTEyaXFqamVuMjIycXIifQ.Z7nKVLZZaGq0OWwiKloj3w';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -51,10 +51,16 @@ const RICH_TITLE = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `Sayid 和 Nuo 正式记录户外运动第 ${yearLength} 年 ` + ( year === 'Total' ? `，地图展示的是这 ${yearLength} 年来的运动轨迹` : `，地图展示的是 ${year} 年的轨迹`);
+  `Sayid 和 Nuo 正式记录户外运动第 ${yearLength} 年 ` +
+  (year === 'Total'
+    ? `，地图展示的是这 ${yearLength} 年来的运动轨迹`
+    : `，地图展示的是 ${year} 年的轨迹`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? `, the map show routes in total` : `, the map show routes in ${year}`);
+  `Logged ${yearLength} Years of Outdoor Journey` +
+  (year === 'Total'
+    ? `, the map show routes in total`
+    : `, the map show routes in ${year}`);
 
 // English is not supported for location info messages yet
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =

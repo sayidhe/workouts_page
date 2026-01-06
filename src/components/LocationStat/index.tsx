@@ -27,8 +27,7 @@ const LocationStat = ({
         .
         <br />
         <br />
-        {CHINESE_LOCATION_INFO_MESSAGE_SECOND}
-        .
+        {CHINESE_LOCATION_INFO_MESSAGE_SECOND}.
       </p>
     </section>
     <hr />
