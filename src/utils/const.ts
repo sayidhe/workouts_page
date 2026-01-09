@@ -51,7 +51,7 @@ const RICH_TITLE = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `Sayid 和 Nuo 正式记录户外运动第 ${yearLength} 年 ` +
+  `正式记录户外运动第 ${yearLength} 年 ` +
   (year === 'Total'
     ? `，地图展示的是这 ${yearLength} 年来的运动轨迹`
     : `，地图展示的是 ${year} 年的轨迹`);
@@ -64,7 +64,7 @@ const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
 
 // English is not supported for location info messages yet
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  'Sayid 和 Nuo 去过的一些地方，希望随着时间推移，地图点亮的地方越来越多';
+  '我们去过的一些地方，希望随着时间推移，地图点亮的地方越来越多';
 const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '2025 去新疆喀拉峻草原徒步啦';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
