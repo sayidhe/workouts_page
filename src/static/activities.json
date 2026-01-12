@@ -401,7 +401,7 @@
 },
 {
 "run_id": 12839625063,
-"name": "Paris \u51ef\u65cb\u95e8\u81f3\u94c1\u5854\u89c2\u666f\u53f0",
+"name": "\u3010\u6cd5\u56fd\u3011\u51ef\u65cb\u95e8\u81f3\u94c1\u5854\u89c2\u666f\u53f0",
 "distance": 8271.3,
 "moving_time": "1:55:32",
 "type": "Hike",
@@ -417,7 +417,7 @@
 },
 {
 "run_id": 12839656979,
-"name": "Paris, Sainte-Chapelle / Paris, Panth\u00e9on \u5723\u793c\u62dc\u5802-\u5148\u8d24\u7960",
+"name": "\u3010\u6cd5\u56fd\u3011\u5723\u793c\u62dc\u5802-\u5148\u8d24\u7960 Paris, Sainte-Chapelle / Paris, Panth\u00e9on",
 "distance": 5162.4,
 "moving_time": "1:25:16",
 "type": "Hike",
@@ -433,7 +433,7 @@
 },
 {
 "run_id": 12839612578,
-"name": "Paris / Paris, Panth\u00e9on \u6a58\u56ed-\u5148\u8d24\u7960",
+"name": "\u3010\u6cd5\u56fd\u3011\u6a58\u56ed-\u5148\u8d24\u7960  Paris, Panth\u00e9on",
 "distance": 18131.9,
 "moving_time": "5:07:28",
 "type": "Hike",
@@ -449,7 +449,7 @@
 },
 {
 "run_id": 12854138339,
-"name": "Paris, Louvre Pyramid \u5362\u6d6e\u5bab\u81f3\u838e\u58eb\u6bd4\u4e9a\u4e66\u5e97",
+"name": "\u3010\u6cd5\u56fd\u3011\u5362\u6d6e\u5bab\u81f3\u838e\u58eb\u6bd4\u4e9a\u4e66\u5e97 Paris, Louvre Pyramid",
 "distance": 10302.3,
 "moving_time": "2:57:08",
 "type": "Hike",
@@ -465,7 +465,7 @@
 },
 {
 "run_id": 12854141758,
-"name": "Paris \u5df4\u9ece\u690d\u7269\u56ed\u9644\u5c5e\u52a8\u7269\u56ed",
+"name": "\u3010\u6cd5\u56fd\u3011\u5df4\u9ece\u690d\u7269\u56ed\u9644\u5c5e\u52a8\u7269\u56ed",
 "distance": 18033.1,
 "moving_time": "4:50:41",
 "type": "Hike",
@@ -481,7 +481,7 @@
 },
 {
 "run_id": 12871051030,
-"name": "Unterseen / Interlaken Citywalk \u56e0\u7279\u62c9\u80af\u95f2\u901b",
+"name": "\u3010\u745e\u58eb\u3011Unterseen / Interlaken Citywalk \u56e0\u7279\u62c9\u80af\u95f2\u901b",
 "distance": 6281.7,
 "moving_time": "1:24:23",
 "type": "Hike",
@@ -497,7 +497,7 @@
 },
 {
 "run_id": 12871080298,
-"name": "Interlaken Eigerwand - Wengen 20+\u516c\u91cc\u5f92\u6b65",
+"name": "\u3010\u745e\u58eb\u3011Interlaken Eigerwand - Wengen 20+\u516c\u91cc\u5f92\u6b65",
 "distance": 22520.2,
 "moving_time": "4:50:02",
 "type": "Hike",
@@ -513,7 +513,7 @@
 },
 {
 "run_id": 12892345078,
-"name": "Beatenberg - Niederhorn 25km 6h \u7a7f\u8fc7\u4e91\u5c42",
+"name": "\u3010\u745e\u58eb\u3011Beatenberg - Niederhorn 25km 6h \u7a7f\u8fc7\u4e91\u5c42",
 "distance": 25478.7,
 "moving_time": "6:01:37",
 "type": "Hike",
@@ -529,7 +529,7 @@
 },
 {
 "run_id": 12885754799,
-"name": "Frankfurt Citywalk \u6cd5\u5170\u514b\u798f\u5e02\u533a\u95f2\u901b",
+"name": "\u3010\u5fb7\u56fd\u3011\u6cd5\u5170\u514b\u798f\u5e02\u533a\u95f2\u901b Frankfurt Citywalk",
 "distance": 5796.9,
 "moving_time": "1:24:33",
 "type": "Hike",
@@ -545,7 +545,7 @@
 },
 {
 "run_id": 12892327605,
-"name": "Frankfurt Zoo \u6cd5\u5170\u514b\u798f\u52a8\u7269\u56ed",
+"name": "\u3010\u5fb7\u56fd\u3011\u6cd5\u5170\u514b\u798f\u52a8\u7269\u56ed Frankfurt Zoo",
 "distance": 7756.7,
 "moving_time": "2:01:06",
 "type": "Hike",
@@ -561,7 +561,7 @@
 },
 {
 "run_id": 12900357026,
-"name": "Frankfurt citywalk \u6cd5\u5170\u514b\u798f\u905b\u5f2f\u53bb\u5403 Pho Ha Noi",
+"name": "\u3010\u5fb7\u56fd\u3011\u6cd5\u5170\u514b\u798f\u905b\u5f2f\u53bb\u5403 Pho Ha Noi",
 "distance": 9328.8,
 "moving_time": "1:59:45",
 "type": "Hike",
@@ -577,7 +577,7 @@
 },
 {
 "run_id": 12907138471,
-"name": "\u6cd5\u5170\u514b\u798f citywalk \u690d\u7269\u56ed",
+"name": "\u3010\u5fb7\u56fd\u3011\u6cd5\u5170\u514b\u798f citywalk \u690d\u7269\u56ed",
 "distance": 13935.8,
 "moving_time": "3:04:15",
 "type": "Hike",
@@ -961,7 +961,7 @@
 },
 {
 "run_id": 14128078197,
-"name": "\u6fb3\u95e8\u8001\u57ce\u533a\u81f3\u51fc\u4ed4\u533a",
+"name": "\u3010\u6fb3\u95e8\u3011\u6fb3\u95e8\u8001\u57ce\u533a\u81f3\u51fc\u4ed4\u533a",
 "distance": 27927.6,
 "moving_time": "4:28:50",
 "type": "Hike",
@@ -977,7 +977,7 @@
 },
 {
 "run_id": 14128069102,
-"name": "\u6fb3\u95e8\u8001\u57ce\u533a\u6f2b\u6b65\u8d70",
+"name": "\u3010\u6fb3\u95e8\u3011\u8001\u57ce\u533a\u6f2b\u6b65\u8d70",
 "distance": 14026.4,
 "moving_time": "3:53:38",
 "type": "Hike",
@@ -993,7 +993,7 @@
 },
 {
 "run_id": 14128055417,
-"name": "\u9999\u6e2f\u897f\u8d21\u8d70\u81f3\u5bf9\u9762\u6d77\u6751",
+"name": "\u3010\u9999\u6e2f\u3011\u9999\u6e2f\u897f\u8d21\u8d70\u81f3\u5bf9\u9762\u6d77\u6751",
 "distance": 4496.7,
 "moving_time": "1:13:21",
 "type": "Hike",
@@ -1009,7 +1009,7 @@
 },
 {
 "run_id": 14128054944,
-"name": "\u897f\u8d21\u6f2b\u6b65\u8d70",
+"name": "\u3010\u9999\u6e2f\u3011\u897f\u8d21\u6f2b\u6b65\u8d70",
 "distance": 5926.4,
 "moving_time": "1:32:14",
 "type": "Hike",
@@ -1025,7 +1025,7 @@
 },
 {
 "run_id": 14113377885,
-"name": "\u9999\u6e2f\u9ea6\u7406\u6d69\u5f84",
+"name": "\u3010\u9999\u6e2f\u3011\u9ea6\u7406\u6d69\u5f84\u7b2c\u4e8c\u6bb5",
 "distance": 21859.0,
 "moving_time": "5:59:59",
 "type": "Hike",
@@ -1041,7 +1041,7 @@
 },
 {
 "run_id": 14113405482,
-"name": "\u9999\u6e2f\u6cb9\u9ebb\u5730-\u65fa\u89d2",
+"name": "\u3010\u9999\u6e2f\u3011\u6cb9\u9ebb\u5730-\u65fa\u89d2",
 "distance": 4424.8,
 "moving_time": "1:05:10",
 "type": "Hike",
@@ -1137,7 +1137,7 @@
 },
 {
 "run_id": 14889496293,
-"name": "\u743c\u5e93\u4ec0\u53f0-\u52a0\u6492\u5e72\u8425\u5730",
+"name": "\u3010\u65b0\u7586\u3011\u743c\u5e93\u4ec0\u53f0-\u52a0\u6492\u5e72\u8425\u5730",
 "distance": 15119.9,
 "moving_time": "4:26:18",
 "type": "Hike",
@@ -1153,7 +1153,7 @@
 },
 {
 "run_id": 14919555150,
-"name": "\u52a0\u6492\u5e72\u8425\u5730\u81f3\u4e1c\u5580\u62c9\u5cfb\u8425\u5730",
+"name": "\u3010\u65b0\u7586\u3011\u52a0\u6492\u5e72\u8425\u5730\u81f3\u4e1c\u5580\u62c9\u5cfb\u8425\u5730",
 "distance": 22745.4,
 "moving_time": "5:11:41",
 "type": "Hike",
@@ -1169,7 +1169,7 @@
 },
 {
 "run_id": 14919566851,
-"name": "\u4e1c\u5580\u62c9\u5cfb\u8349\u539f\u6e38\u73a9",
+"name": "\u3010\u65b0\u7586\u3011\u4e1c\u5580\u62c9\u5cfb\u8349\u539f\u6e38\u73a9",
 "distance": 15446.9,
 "moving_time": "5:20:50",
 "type": "Hike",
@@ -1185,7 +1185,7 @@
 },
 {
 "run_id": 14919571520,
-"name": "\u4e1c\u5580\u62c9\u5cfb\u8425\u5730\u81f3\u5854\u91cc\u6728\u68ee\u6797\u516c\u56ed",
+"name": "\u3010\u65b0\u7586\u3011\u4e1c\u5580\u62c9\u5cfb\u8425\u5730\u81f3\u5854\u91cc\u6728\u68ee\u6797\u516c\u56ed",
 "distance": 19218.6,
 "moving_time": "4:44:11",
 "type": "Hike",
@@ -1201,7 +1201,7 @@
 },
 {
 "run_id": 14958684654,
-"name": "\u8d5b\u91cc\u6728\u6e56\u677e\u6811\u5934",
+"name": "\u3010\u65b0\u7586\u3011\u8d5b\u91cc\u6728\u6e56\u677e\u6811\u5934",
 "distance": 4295.1,
 "moving_time": "1:07:34",
 "type": "Hike",
@@ -1217,7 +1217,7 @@
 },
 {
 "run_id": 15839356558,
-"name": "\u4f0a\u5b81\u4e94\u661f\u8857",
+"name": "\u3010\u65b0\u7586\u3011\u4f0a\u5b81\u4e94\u661f\u8857",
 "distance": 3469.0,
 "moving_time": "0:56:24",
 "type": "Hike",
@@ -1249,7 +1249,7 @@
 },
 {
 "run_id": 15839358748,
-"name": "\u6545\u5bab\u6e38\u73a9",
+"name": "\u3010\u5317\u4eac\u3011\u6545\u5bab\u6e38\u73a9",
 "distance": 8728.3,
 "moving_time": "2:53:47",
 "type": "Hike",
@@ -1265,7 +1265,7 @@
 },
 {
 "run_id": 15839362916,
-"name": "\u516b\u8fbe\u5cad\u957f\u57ce\u5f92\u6b65",
+"name": "\u3010\u5317\u4eac\u3011\u516b\u8fbe\u5cad\u957f\u57ce\u5f92\u6b65",
 "distance": 4568.2,
 "moving_time": "1:28:55",
 "type": "Hike",
@@ -1281,7 +1281,7 @@
 },
 {
 "run_id": 15839366302,
-"name": "\u9890\u548c\u56ed\u6e38\u89c8",
+"name": "\u3010\u5317\u4eac\u3011\u9890\u548c\u56ed\u6e38\u89c8",
 "distance": 5553.0,
 "moving_time": "1:53:35",
 "type": "Hike",
@@ -1297,7 +1297,7 @@
 },
 {
 "run_id": 15839368218,
-"name": "\u5929\u575b\u516c\u56ed\u6e38\u73a9",
+"name": "\u3010\u5317\u4eac\u3011\u5929\u575b\u516c\u56ed\u6e38\u73a9",
 "distance": 5656.6,
 "moving_time": "1:37:49",
 "type": "Hike",
@@ -1313,7 +1313,7 @@
 },
 {
 "run_id": 16037607032,
-"name": "\u67f3\u5dde\u9a6c\u9e7f\u5c71\u516c\u56ed\u8dd1\u6b65",
+"name": "\u3010\u5e7f\u897f\u3011\u67f3\u5dde\u9a6c\u9e7f\u5c71\u516c\u56ed\u8dd1\u6b65",
 "distance": 6392.9,
 "moving_time": "0:36:38",
 "type": "Run",
@@ -1329,7 +1329,7 @@
 },
 {
 "run_id": 16037603578,
-"name": "\u91d1\u79c0\u5723\u5802\u5927\u5ce1\u8c37",
+"name": "\u3010\u5e7f\u897f\u3011\u91d1\u79c0\u5723\u5802\u5927\u5ce1\u8c37",
 "distance": 6510.6,
 "moving_time": "1:46:31",
 "type": "Hike",
@@ -1345,7 +1345,7 @@
 },
 {
 "run_id": 16037604999,
-"name": "\u91d1\u79c0\u5723\u5802\u5c71\u5f92\u6b65",
+"name": "\u3010\u5e7f\u897f\u3011\u91d1\u79c0\u5723\u5802\u5c71\u5f92\u6b65",
 "distance": 9305.9,
 "moving_time": "3:16:41",
 "type": "Hike",
@@ -1361,7 +1361,7 @@
 },
 {
 "run_id": 16952971760,
-"name": "2025.12.28 \u62c9\u8428\u7f57\u5e03\u6797\u5361",
+"name": "\u3010\u897f\u85cf\u3011\u62c9\u8428\u7f57\u5e03\u6797\u5361",
 "distance": 5051.8,
 "moving_time": "1:22:59",
 "type": "Hike",
@@ -1377,7 +1377,7 @@
 },
 {
 "run_id": 16952970217,
-"name": "2025.12.28 \u62c9\u8428\u8272\u62c9\u5bfa",
+"name": "\u3010\u897f\u85cf\u3011\u62c9\u8428\u8272\u62c9\u5bfa",
 "distance": 5495.3,
 "moving_time": "1:45:05",
 "type": "Hike",
@@ -1393,7 +1393,7 @@
 },
 {
 "run_id": 16900397750,
-"name": "2026.01.01 \u897f\u85cf\u5e93\u62c9\u5c97\u65e5\u767d\u9a6c\u6797\u63aa\u5f92\u6b65",
+"name": "\u3010\u897f\u85cf\u3011\u5e93\u62c9\u5c97\u65e5\u767d\u9a6c\u6797\u63aa\u5f92\u6b65",
 "distance": 6004.9,
 "moving_time": "2:11:06",
 "type": "Hike",
@@ -1409,7 +1409,7 @@
 },
 {
 "run_id": 16909195381,
-"name": "2026.01.02 \u5e93\u62c9\u5c97\u65e5\u4ecb\u4e45\u63aa\u5f92\u6b65",
+"name": "\u3010\u897f\u85cf\u3011\u5e93\u62c9\u5c97\u65e5\u4ecb\u4e45\u63aa\u5f92\u6b65",
 "distance": 5681.6,
 "moving_time": "2:02:59",
 "type": "Hike",
@@ -1425,7 +1425,7 @@
 },
 {
 "run_id": 16986174601,
-"name": "2026.01.09 \u6062\u590d\u8dd1",
+"name": "\u6062\u590d\u8dd1",
 "distance": 5477.4,
 "moving_time": "0:34:32",
 "type": "Run",
