@@ -1582,5 +1582,53 @@
 "elevation_gain": 98.8,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 18001345973,
+"name": "\u9a6c\u6765\u897f\u4e9a\u69df\u57ce George Town city walk",
+"distance": 10163.7,
+"moving_time": "2:33:54",
+"type": "Hike",
+"start_date": "2026-04-05 01:29:03+00:00",
+"start_date_local": "2026-04-05 09:29:03",
+"location_country": "\u65b0\u5173\u4ed4\u89d2, \u6d6e\u7f57\u6c60\u6ed1, Central George Town, \u4e1c\u5317\u53bf, \u4e54\u6cbb\u5e02, \u69df\u57ce\u5dde, 10250, \u9a6c\u6765\u897f\u4e9a",
+"summary_polyline": "qnc`@a|hcRBSTSRGhBn@h@^BCN^E?W]]S?QFKJ?pAh@NER[?YRc@TYV?|AqBTc@xAuB~CwFlFqLl@eADSpAqBrAiDV_B@y@b@{DA]Js@CYH_C]uBG{@X{CJcBg@gAGi@Li@h@_E?UTKEu@f@_B@FE?BIVM@\\HJ]AFBSMJFPGDu@TId@_AnB}@TCP~@HLKLt@hAYhALD^YJDrBxET^HARZNECPGCBIEBBBEC@ICHFDFE^cARKAw@Ly@Py@R_BFUJEVyAn@kBZGLTZBl@\\L@^ZGBZJf@`@NEPDWBb@BNGa@D@FMc@JYH?d@w@DUyAwA@QAFjAeCd@u@GOYKOQs@SEWOFBMD@KHBDCGJNG@B[LAKQqG_D]IY^a@dAJJOAGH{@hC?KIIe@Ju@c@Ma@z@iDQ@Wf@i@?iBc@k@@aBSkBg@S?QOCe@PAFa@`@[HQ^NTYDQXr@`Ab@lAXR@NOhCj@\\_BTm@SIHEIEASKG?i@e@o@BKDFiAYOOg@MQBSSf@cA@GKANKJSEk@To@\\MFa@SICIHgAj@}B`@wAZ[`G|AR@JMZJ\\QSFLLZATKMd@Vd@pAvAPDz@fBh@b@j@v@BFKB@SFAKKn@j@b@`AdBzBN\\M`@?Ze@VgA~AUP\\HDFHTh@NNP^JML@OAR]t@k@h@gA`BnBtAF~@j@n@bAf@Z?PXzAl@^VKh@DNUb@L]HYk@_@RDx@\\CHUBIEFOGR]?CHJa@E?D?BLK@HDBKINAG@D@?CCDIALLAd@UD[`@PMEHiARg@~AkBJATSH@HLEDQEaAn@]h@Mb@BCKCJH?DGII@ETi@nA?VdAj@LIp@iAL@@NESH?x@s@IURFSCRMUN?MMBP?DL@GMI?IHPFIGLJJE@FCMCFISWSCBRF?GHHc@IEZNSLM^]^Md@m@~@AFPDb@`@Uh@KDAKu@~@a@Q]JU]AMHDCFFCI@LJ^`Ag@bA@Xj@bAn@j@Th@BZMOM]i@NkAnCk@hA?RIASd@E`@_@l@M@Qn@WZy@dBWCDFIHKj@a@VkAnBDP`@THPPDVZRLV@Nd@Dv@uBtCo@j@Yh@]X{BtC_At@f@NCEIB@DUBEUHS?TGMTSLBBH?G?H@?EGFABBCB@E?DDAE@?G@FE?",
+"average_heartrate": 88.5,
+"average_speed": 1.101,
+"elevation_gain": 13.7,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18001341646,
+"name": "\u9a6c\u6765\u897f\u4e9a\u69df\u57ce\u8dd1\u6b65",
+"distance": 6816.8,
+"moving_time": "0:50:40",
+"type": "Run",
+"start_date": "2026-04-05 10:03:13+00:00",
+"start_date_local": "2026-04-05 18:03:13",
+"location_country": "Promenad Atas, \u65af\u91cc\u4e39\u7ed2\u69df\u6994, \u4e1c\u5317\u53bf, \u4e54\u6cbb\u5e02, \u69df\u57ce\u5dde, 10250, \u9a6c\u6765\u897f\u4e9a",
+"summary_polyline": "wtc`@u~hcRq@N[P_@ZIJYv@SVwBlB_BxB_BtBa@p@[\\cApAg@v@o@nAY`@UNc@Rj@]PQ@GECIAE@sAhBBMXYf@m@PQDAHDBLCJYRGHCJBFB?|@G^Gb@ObAs@b@Kd@AL@b@NZVUd@aAvAuAbBuA|AmBbCkArAcC|CsB`C{@lAcA`A]b@eAz@aCbCa@Zu@t@o@h@{@n@]R[LUPy@h@_@RiBv@Y?_@QOKUYgCeHEw@IYYo@mAwAUc@qAmDqAeEq@uAi@y@o@o@k@e@g@YUUYOmBuAy@u@y@_Aa@m@]_Ay@wDEYBSAYg@_BCQ?i@CEe@@[EiAq@KSGE]Ee@Mi@OUOi@EyBu@KIOU]?UIoCk@gA[c@WoDT_APa@@WVSDSJ{Br@cARc@@y@Cw@S[SQEU@SLIT@b@CNu@tB{@rBCF@Ze@z@mAlBw@vA[`@EJAPYj@e@dBk@hDKfAE`CFjB?`@M~ADRCn@EVIJMHK?m@O]AICEBj@Ib@ALE@gAA]Pi@Dq@MaABKCCWCWI[B[EYBSHIHEXDf@AXGXI@_ABiADq@CeB?IACICy@I_AEOMGoAAYBWAW@o@Cu@Fm@?a@BSLQB[LQJW`@W~@Bj@Rv@L\\DZ?j@ABK@GFNl@IVDXCB@W@h@EA",
+"average_heartrate": 130.1,
+"average_speed": 2.242,
+"elevation_gain": 11.4,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 18001333618,
+"name": "\u9a6c\u6765\u897f\u4e9a\u69df\u57ce\u5927\u65d7\u5c71\u5f92\u6b65",
+"distance": 16743.0,
+"moving_time": "4:28:58",
+"type": "Hike",
+"start_date": "2026-04-06 01:58:54+00:00",
+"start_date_local": "2026-04-06 09:58:54",
+"location_country": "Penang Hill Heritage Trail, Mukim 16, \u4e1c\u5317\u53bf, \u4e54\u6cbb\u5e02, \u69df\u57ce\u5dde, 11300, \u9a6c\u6765\u897f\u4e9a",
+"summary_polyline": "{x_`@}c`cRcAEoBp@gAIgA\\oBlAeEnAHZDMWEe@JaAj@aDh@B^s@^OOITLQYQ]FmMzDYLNZo@`@u@?q@w@iA`@m@pA_@@w@dAcCd@LdAkAfBX@?Rm@Zc@Oa@uA{Ad@]i@[Hx@PfBSl@bBUBJQKHt@F]JNHSbAVXJvAu@h@OU[@Kl@XHM]{Ag@o@~@q@Lk@n@cAH^RQHIQ?Vt@rABTOCJd@WIAN}Au@o@fAs@Vo@MNJq@aBeCaAODXTuAdA?f@X@B}@n@Y|@`@Rz@LO@Rl@eAKh@_@HSNJ^Ia@LEx@lAe@_@YsAg@q@cAm@c@Z|AgAPFMZv@Ok@Gd@@y@@~@As@KKBXP]ORC]FJECRJG?KMHJJPG{@Gt@Fk@Id@@NiAt@aALkAjBD`Af@s@EW_@}AA[rAeAjCrB`B\\nApCCz@n@|BZb@`@q@]NC`@Xf@pBgBjAOzAFj@dBz@^Cz@s@dBH`CzChChAtB^lFnEUt@WzAb@t@lBRdBv@fBQzCXlBGKrBgA@u@bB`@xAMdAv@vAy@`BCbAuCbAyB?{@j@u@[x@VET|@aAbC@bCaABkAr@eAk@_BIgE`@cApAEFs@@cAcBPkDYsAR{B{@wAI[[@u@h@m@RTAf@Lc@|BaAJw@w@{@o@B]o@EaAiBy@eA_AN}@U_Bn@zAPWKaBjAu@?[AdASAdA`Bb@HZYtAOe@GJiCNgAl@]?[uB{@QgBQQuAp@iByAqAHc@`@i@MiAsAaAsBGi@LqAuAaDYaCl@xBoAaBiANc@Qm@yAoAb@k@Mu@uASgAs@s@Mu@uAF{A{BaB{@iB?Mc@R}BIg@YQ_Eg@kAXiBdCQvCc@So@kB]UaBJa@SUqAv@_ESaBvB{@vAoAGU{@V]Uv@w@WoAd@eCb@q@pAZy@}@_@eAy@`@[g@j@uCbAq@oAOGO|AcA_DYwAk@wAv@}Am@eAXqBg@g@u@iAZ_Cc@kAaAqES_B\\u@Y_QeBlAkBSQJ]o@mBFyAk@mBV]pAJk@[g@iAoBqAIYRQbAXNI{AoAgA[g@s@Gk@Vy@Oi@S?F\\[l@YMEs@^eBx@kAwA[_@s@EqH~@iDB]UAKk@vFuE~GgKZXIB",
+"average_heartrate": null,
+"average_speed": 1.037,
+"elevation_gain": 739.2,
+"source": "strava",
+"streak": 2
 }
 ]
