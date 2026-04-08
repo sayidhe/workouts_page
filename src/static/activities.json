@@ -1630,5 +1630,21 @@
 "elevation_gain": 739.2,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 18011951896,
+"name": "\u9a6c\u6765\u897f\u4e9a\u69df\u57ce\u56fd\u5bb6\u68ee\u6797\u516c\u56ed",
+"distance": 13997.7,
+"moving_time": "2:52:39",
+"type": "Hike",
+"start_date": "2026-04-07 01:45:40+00:00",
+"start_date_local": "2026-04-07 09:45:40",
+"location_country": "National Park Information Office, Jalan Hassan Abas, \u73ed\u53f0\u4e9a\u9f50, \u897f\u5357\u53bf, \u4e54\u6cbb\u5e02, \u69df\u57ce\u5dde, 11050, \u9a6c\u6765\u897f\u4e9a",
+"summary_polyline": "}li`@enrbRDGGN_@Dy@`@mAr@e@x@EpAu@l@[z@A^m@j@w@|Au@bAEVqA|@CLPP~@^ELe@RQGo@HMZG^NDE\\EQD`@?~CfA~@p@PdA|@d@N^\\j@Lf@b@r@v@`@jA~ApBXv@z@p@GVKFGd@Pb@Dl@e@hA?j@l@`@Td@Dp@ZXHd@\\ZQKTHETRFBLNCTb@nAt@t@lA@LRBRb@H@I?L?j@n@?L~@^RbACZZh@TdAb@t@St@ThAUp@G~@^J\\`@bAj@dAjAAHHCK@j@V~@Bv@m@p@AzANtAj@f@r@t@nB?t@J|@Er@HXlB`@n@t@P|@V^F`AHHs@l@q@Xx@TPLVrAMb@UTi@Fg@b@_@AIHFXElAOXZf@b@@n@`@b@FVd@m@f@FLE]c@OULJTKHc@JOE?SKBlAj@JSWe@?SxAIZThBTNJIP@ITB~@t@P@@JBK?JEIKP@]EZ`@[LVt@\\Vd@VLdAH`Ap@jAAJ^LFP?PMBMEFJFYNEIJ?GLs@UEOgAFUW_@So@M?Vo@zAgD~@yMjBcTdEuRpF_KbDaPtFoKrCaKnBaBj@qEfCyDpAwDM_C]aGgB}DuBsAqAuBqDm@{AwAcGg@iDyAgH}@aIiAkHIuDViBb@s@l@g@|BqAzB{@pH{B`KaC~J{AtDAj@JRb@?g@IAFABRBIKKEBZVM@DWUIDi@JAGCDkAKSCwBH[Be@GUIaEIi@Jw@EYIQiAi@]_@Qy@LU?gB]y@e@w@@SK_@MEYe@C{@[Kc@e@SFWKs@q@AMDi@VQ?Qb@GRq@tAoAzAeAh@G`@T`@?Rf@^`@N?HIBZZKVNTIrAOXU^Cx@_Bd@UBMb@e@J?L[`@]Jo@j@GNQb@ADMQ]Xi@Dy@IOCo@P_@WqD{C@fAMjA?DIIKFc@GUByAU[QDE[gAiBMm@KeBPc@_@yAD[Tm@lAm@tAB`@TL\\b@FLb@^RTr@h@XXp@`At@ZHRGPc@RoBRAPWz@TbAMZR\\b@\\?NTr@R\\j@bBi@lAZHS~@i@H[bAuAv@kBXMBi@b@gAd@[^wBLQjD_BRm@GMIRBQt@k@r@ODHAMjAc@XDl@O\\Bv@KfAY?VQDTMGJ",
+"average_heartrate": 99.6,
+"average_speed": 1.351,
+"elevation_gain": 337.1,
+"source": "strava",
+"streak": 3
 }
 ]
